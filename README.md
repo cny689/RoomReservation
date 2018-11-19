@@ -1,7 +1,7 @@
 #hongik univ. opensource project
 participant 
 KIM HYEON SU
-KIM EYN RYEONG
+KIM EUN RYEONG
 CHOI NA YOUNG
 
 #Object
